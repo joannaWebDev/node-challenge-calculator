@@ -1,0 +1,24 @@
+{
+  "name": "challenge-calculator",
+  "version": "1.0.0",
+  "description": "MigraCode node calculator exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannaWebDev/node-challenge-calculator.git"
+  },
+  "author": "MigraCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannaWebDev/node-challenge-calculator/issues"
+  },
+  "homepage": "https://github.com/joannaWebDev/node-challenge-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
